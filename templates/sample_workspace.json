@@ -1,0 +1,14 @@
+{
+  "workspace_name": "Sample Workspace",
+  "version": "0.1.0",
+  "workspace_id": "__WORKSPACE_ID__",
+  "elements": [
+    {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "item",
+      "name": "Makee Gem",
+      "power": 2,
+      "description": "A sample item produced by Makee generator."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Makee - MCreator Tool",
+  "id": "makee-addon",
+  "version": "0.1.0",
+  "description": "A generator addon for MCreator that can produce and iteratively improve MCreator workspace templates and other helper tools.",
+  "author": "mnecraftmonkey",
+  "license": "MIT"
+}
